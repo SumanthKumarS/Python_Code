@@ -1,0 +1,8 @@
+ip = input("Enter the input to be displayed :")
+print("            {}".format('_'*len(ip)))
+print("          < {} >".format(ip))
+print("            {}".format('-'*len(ip)))
+print("            /")
+print(" /\_/\     /")
+print("( o.o )  ")
+print(" > ^ <  ")
